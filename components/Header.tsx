@@ -23,7 +23,7 @@ export default function Header() {
           priority
         />
         <div className="text-2xl">
-          Meta<span className="font-bold">Blog</span>
+          Line<span className="font-bold">Soft</span>
         </div>
       </Link>
       <div className="flex space-x-10">
